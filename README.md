@@ -46,7 +46,7 @@
     <div class="section">
         <h2>Links</h2>
         <ul>
-            <li><a href="https://github.com/Grace-Wambui.github.io">My GitHub Profile</a></li>
+            <li><a href="https://github.com/Gracewambui0432.github.io">My GitHub Profile</a></li>
         </ul>
     </div>
 </body>
